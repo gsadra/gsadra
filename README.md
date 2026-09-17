@@ -7,14 +7,12 @@ computational formulations and designing efficient solution procedures around th
 
 **Research Interests:** Data Science, Machine Learning, Operations Research, AI Infrastructure & Cloud. 
 
-**Technical Skills**
+## Technical Skills
 
-Programming: Python, C++, SQL, Gams
+**Programming:** Python, C++, SQL, Go
 
-Data Science: Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
+**Machine Learning:** Regression, Classification, Clustering, Feature Selection, Model Evaluation
 
-Machine Learning: Regression, Classification, Clustering, Feature Selection, Model Evaluation
+**Optimization & OR:** Operations Research, Mathematical Optimization, Heuristics
 
-Optimization & OR: Operations Research, Mathematical Optimization, Heuristics
-
-Software & Tools: Git, GitHub, Jupyter, VS Code, MS Excel
+**Software & Tools:** Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, Git, GitHub, Jupyter, VS Code, MS Excel
