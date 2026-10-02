@@ -11,7 +11,7 @@ computational formulations and designing efficient solution procedures around th
 
 **Programming:** Python, C++, SQL, Go
 
-**Machine Learning:** Regression, Classification, Clustering, Feature Selection, Model Evaluation
+**Machine Learning:** Regression, Classification, Clustering, Feature Selection, Model Evaluation & Validation
 
 **Optimization & OR:** Operations Research, Mathematical Optimization, Heuristics
 
